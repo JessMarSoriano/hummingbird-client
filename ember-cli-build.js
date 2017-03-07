@@ -52,7 +52,7 @@ module.exports = function(defaults) {
     // service worker
     'esw-index': {
       location: 'index.html',
-      version: '1'
+      version: '2'
     },
     'asset-cache': {
       include: ['assets/**/*', 'images/**/*', '**/*.png'],
